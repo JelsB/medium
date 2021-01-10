@@ -1,10 +1,5 @@
-// infrastructure/package.json
 {
-    // ...
     "scripts": {
         "build": "npx tsc && mvn -B -f ../code/pom.xml package",
-        // ...
     }
-    // ...
 }
-a
