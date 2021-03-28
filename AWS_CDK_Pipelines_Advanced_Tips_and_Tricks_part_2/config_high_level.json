@@ -1,0 +1,19 @@
+{
+    "application": {
+        // ...
+    },
+    "environments": {
+        "default": {
+            // ...
+        },
+        "development": {
+            // ...
+        },
+        "staging": {
+            // ..
+        },
+        "production": {
+            // ...
+        }
+    }
+}
